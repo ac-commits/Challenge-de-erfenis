@@ -1,0 +1,61 @@
+#+title: Readme
+#+TITLE: Akte van Kennisgeving
+#+SUBTITLE: Betreffende de beschikbaarheid van archieven, digitale bescheiden en communicatievoorzieningen
+#+OPTIONS: toc:nil
+
+* 📜AKTE VAN KENNISGEVING
+
+Aan de gezamenlijke erfgenamen,
+
+Mij, Notaris Van de Kruimels, is opgedragen u in kennis te stellen van het feit dat de voor de afwikkeling van deze nalatenschap relevante archiefstukken, aktes, registraties, notities en overige documenten ter inzage zijn gesteld binnen een besloten digitaal netwerk.
+
+De erflater heeft daarbij uitdrukkelijk bepaald dat niet alle informatie rechtstreeks zal worden verstrekt. Sommige stukken dienen te worden opgespoord, andere dienen te worden geopend, en weer andere zullen slechts toegankelijk blijken voor hen die aandacht besteden aan details die door anderen achteloos worden gepasseerd.
+
+Ten aanzien van de toegang tot de digitale voorzieningen merk ik op dat de noodzakelijke sleutel zich gedurende deze bijeenkomst niet ver buiten uw bereik bevindt. Zoals zo vaak het geval is bij nalatenschappen, bevindt hetgeen men zoekt zich niet noodzakelijk in een kluis, een dossiermap of een archiefkast. Soms dragen aanwezigen meer informatie met zich mee dan zij zelf beseffen.
+
+De notaris acht het niet wenselijk hierop nader in te gaan.
+
+* 🗄️ Beschikbaarheid van de Archieven
+
+Vanaf dit moment worden de archieven en aktes geacht beschikbaar te zijn voor onderzoek door de erfgenamen.
+
+Het staat u vrij documenten te onderzoeken, verbanden te leggen, aanwijzingen te volgen en conclusies te trekken. Niet iedere kruimel zal betekenisvol blijken, doch iedere betekenisvolle ontdekking begint doorgaans met een enkele kruimel.
+
+De erflater heeft bovendien in zijn wijsheid besloten dat hulp kan worden ingeroepen wanneer de zoektocht daartoe aanleiding geeft.
+
+* 💻 Correspondentie en Ondersteuning
+
+Voor vragen omtrent de nalatenschap, archiefstukken, bewijsstukken en overige notariële aangelegenheden kunt u zich vervoegen in het IRC-kanaal:
+
+#+begin_example
+#notaris
+#+end_example
+
+Aldaar zal Notaris Van de Kruimels zitting houden teneinde vragen te beantwoorden, documenten toe te lichten en zo nodig een bescheiden spoor van kruimels achter te laten.
+
+Voor vragen van technische aard, waaronder begrepen doch niet beperkt tot netwerkverbindingen, digitale voorzieningen, computers, draadloze netwerken en andere eigenaardigheden van moderne techniek, kan eveneens contact worden opgenomen met de systeembeheerder.
+
+De notaris merkt daarbij op dat de systeembeheerder buitengewoon behulpzaam schijnt te zijn en een opvallende belangstelling heeft voor de tevredenheid van gebruikers.
+
+* 🔍 Slotverklaring
+
+De zoektocht vangt aan op het moment dat deze akte wordt gelezen.
+
+De waarheid bevindt zich ergens tussen de documenten, de archieven, de gesprekken, de aanwijzingen en hetgeen men aanvankelijk onbelangrijk achtte.
+
+De notaris wenst alle erfgenamen veel succes, een scherp oog, een helder verstand, voldoende geduld en een voorspoedige afwikkeling van deze bijzondere nalatenschap.
+
+Aldus vastgesteld,
+
+Notaris Van de Kruimels
+
+Bewaarder der Archieven
+
+Toezichthouder op de Nalatenschap
+
+Volger der Kruimels
+
+#+begin_quote
+"De waarheid ligt zelden verborgen.
+Zij wordt slechts onvoldoende opgemerkt."
+#+end_quote

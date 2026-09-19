@@ -1,5 +1,4 @@
 #+title: Pannenkoeken
-[051cfcc7c63dde457e640df2137d637f.png]
 
 #+ATTR_HTML: :align right
 #+ATTR_ORG: :align center
